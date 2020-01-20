@@ -1,2 +1,2 @@
 # cpp-dooni
-Simple elementry C++ learning material.
+Simple elementry C++ learning materials.
