@@ -1,0 +1,5 @@
+#!/bin/bash
+
+g++ Perf.cpp -o no-opt
+g++ -O2 Perf.cpp -o opt-o2
+g++ -O3 Perf.cpp -o opt-o3
